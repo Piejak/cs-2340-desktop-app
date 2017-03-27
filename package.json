@@ -1,0 +1,19 @@
+{
+  "name": "cs-2340-desktop-app",
+  "version": "1.0.0",
+  "description": "cs 2340 desktop app",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Piejak/cs-2340-desktop-app.git"
+  },
+  "author": "Brian Piejak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Piejak/cs-2340-desktop-app/issues"
+  },
+  "homepage": "https://github.com/Piejak/cs-2340-desktop-app#readme"
+}
